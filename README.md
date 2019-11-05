@@ -4,3 +4,4 @@
 ---  https://binaryify.github.io/NeteaseCloudMusicApi/#/   网易云音乐 NodeJS 版 API 在GitHub上的API
 ---  https://github.com/lifeng666666/KindleHelper  小说API 此项目中有追书神器上的一些暴露的API等
 ---  http://www.bejson.com/knownjson/webInterface/  JSON API免费接口
+---  https://www.free-api.com/
